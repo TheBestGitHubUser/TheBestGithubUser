@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science graduate interested in full-stack development.
+Computer Science graduate interested in software development, data analysis, and business process optimization.
 
 
 # 💻 Tech Stack:
